@@ -1,2 +1,3 @@
-test build seanrio 1
-tesr deploy senario 2
+test build seanrio 1 pass
+tesr deploy senario 2 fail
+test build and deploy 3 
