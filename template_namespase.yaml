@@ -1,16 +1,10 @@
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: git-upload4
-  labels:
-    environment: testing
-    created-by: buildpiper-custom-upload
 ---
 apiVersion: v1
 kind: ResourceQuota
 metadata:
-  name: git-upload4
+  name: git-upload5
   namespace: git-upload4
+spec:
   hard:
     requests.cpu: "2"
     requests.memory: "2Gi"
