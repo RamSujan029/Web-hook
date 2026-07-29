@@ -2,8 +2,8 @@
 apiVersion: v1
 kind: ResourceQuota
 metadata:
-  name: git-upload7
-  namespace: git-upload7
+  name: git-upload8
+  namespace: git-upload8
 spec:
   hard:
     requests.cpu: "2"
