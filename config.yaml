@@ -1,0 +1,8 @@
+APP_ENV: "testing"
+LOG_LEVEL: "debug"
+APP_NAME: "test-app"
+DATABASE_HOST: "localhost"
+DATABASE_PORT: "5432"
+DATABASE_NAME: "testdb"
+USERNAME: "admin"
+PASSWORD: "admin123"
