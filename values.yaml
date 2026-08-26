@@ -1,0 +1,7 @@
+configMap:
+  name: my-configmap
+
+data:
+  APP_ENV: dev
+  LOG_LEVEL: INFO
+  APP_NAME: my-app
