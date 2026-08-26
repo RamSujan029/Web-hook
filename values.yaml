@@ -1,0 +1,7 @@
+configMap:
+  name: test-configmap
+
+data:
+  APP_ENV: "testing"
+  LOG_LEVEL: "debug"
+  APP_NAME: "test-app"
